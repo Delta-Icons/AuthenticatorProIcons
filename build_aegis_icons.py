@@ -5,7 +5,7 @@ from util.basic_builder import BasicBuildSettings, build_basic_pack
 
 def main():
     settings = BasicBuildSettings()
-    settings.repo_url = "https://github.com/aegis-icons/aegis-icons.git"
+    settings.repo_url = "https://github.com/GitGitro/aegis-icons.git"
     settings.svg_glob = ["icons", "**", "*.svg"]
     settings.output_name = "aegis-icons"
     settings.pack_name = "Aegis Icons"

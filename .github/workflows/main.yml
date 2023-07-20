@@ -1,8 +1,6 @@
 name: Build packs
 
 on:
-  schedule:
-    - cron: "0 0 1 * *"
   workflow_dispatch:
 
 jobs:
@@ -45,13 +43,4 @@ jobs:
           done
 
       - name: Get current date
-        run: echo "CURRENT_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
-
-      - name: Create release
-        uses: "marvinpinto/action-automatic-releases@latest"
-        with:
-          repo_token: "${{ secrets.TOKEN }}"
-          prerelease: false
-          automatic_release_tag: "${{ env.CURRENT_DATE }}"
-          title: "Release ${{ env.CURRENT_DATE }}"
-          files: "*.iconpack"
+        run: echo "CURRENT_DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
