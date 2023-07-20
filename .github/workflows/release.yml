@@ -1,5 +1,5 @@
 name: Release
-run-name: Release @ Delta AuthenticatorPro Icons - ${{ env.CURRENT_DATE }}
+run-name: Release @ Delta AuthenticatorPro Icons - ${{ github.sha }}
 
 on:
   workflow_dispatch:
