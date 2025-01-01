@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <b>Delta version of the unofficial monochrome-styled 2FA icons for open source Android authenticator <a href="https://github.com/jamie-mh/AuthenticatorPro">AuthenticatorPro</a>.</b>
+    <b>Delta version of the unofficial monochrome-styled 2FA icons for open source Android authenticator <a href="https://github.com/stratumauth/app">StratumAuth</a>.</b>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 </p>
 
 ## Credits
-- **[Original project - AuthenticatorPro Icons](https://github.com/jamie-mh/AuthenticatorProIcons) ([GPL 3.0](https://github.com/jamie-mh/AuthenticatorProIcons/blob/master/LICENSE))**
+- **[Original project - StratumAuth Icons](https://github.com/stratumauth/icons) ([GPL 3.0](https://github.com/stratumauth/icons/blob/master/LICENSE))**
 - [2FA Directory](https://2fa.directory/) ([MIT](https://github.com/2factorauth/twofactorauth/blob/master/LICENSE.md))
 - [Cryptocurrency Icons](http://cryptoicons.co/) ([CC0 1.0 Universal](https://github.com/spothq/cryptocurrency-icons/blob/master/LICENSE.md))
 - [Fork Awesome](https://forkaweso.me/Fork-Awesome/) ([SIL OFL 1.1](https://github.com/ForkAwesome/Fork-Awesome/blob/master/LICENSES))
@@ -46,4 +46,4 @@ The CC0 license applies only to templates, texts, codes and some of the icons. E
 
 We don't make icons for general purpose, we only focus on userbase of Aegis, the Android app. Check out [Simple Icons](https://simpleicons.org/) instead!
 
-We aren't associated with [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro), the creators of Aegis Authenticator.
+We aren't associated with [StratumAuth](https://github.com/stratumauth/app), the creators of Stratum Authententicator.
